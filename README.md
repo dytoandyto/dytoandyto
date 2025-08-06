@@ -1,6 +1,5 @@
-# Hi there, I'm Dyto 👋
+# Hi there, I'm Andyto 👋
 
-🎓 SMK Taruna Bhakti | RPL
 🧑‍💻 Junior Website Developer & UI Designer  
 🚀 Passionate in Web Dev, Design, & Productivity Tools  
 🎮 Sometimes I mess with Godot & Unity for fun
