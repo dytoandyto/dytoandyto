@@ -70,17 +70,6 @@ const andyto = {
 <tr>
 <td width="50%">
 
-### 📋 Sada-Taskly
-
-A task and team management application designed to streamline assignments, collaboration, and productivity.
-
-**Built with:** Laravel · Inertia.js · React
-
-[View Project →](https://github.com/dytoandyto/REPO_1)
-
-</td>
-<td width="50%">
-
 ### 🎓 ClassHub
 
 A class portal that brings academic schedules, learning materials, student profiles, and class information together.
