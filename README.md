@@ -69,10 +69,6 @@ const andyto = {
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### 🎓 ClassHub
 
 A class portal that brings academic schedules, learning materials, student profiles, and class information together.
@@ -102,9 +98,6 @@ Exploring interface design, interactive prototypes, and creative approaches to d
 
 [Explore All Repositories →](https://github.com/dytoandyto?tab=repositories)
 
-    </td>
-  </tr>
-</table>
 
 ---
 
