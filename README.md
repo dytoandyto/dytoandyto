@@ -85,11 +85,6 @@ A facility and inventory management system for managing inventory, borrowing req
 
 [View Project →](https://github.com/dytoandyto/SuaraSiswa-AI-Powered-Student-Helpdesk-Aspiration-System)
 
-    </td>
-  </tr>
-  <tr>
-
-
 ### 💡 UI/UX Experiments
 
 Exploring interface design, interactive prototypes, and creative approaches to digital product experiences.
