@@ -1,9 +1,8 @@
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:C084FC&height=200&section=header&text=Hey,%20I'm%20Andyto!&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Andyto profile header" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:C084FC&height=200&section=header&text=Hey,%20I'm%20Andyto!&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=16" width="100%" />
-
-[![GitHub followers](https://img.shields.io/github/followers/dytoandyto?style=for-the-badge&logo=github&color=7C3AED)](https://github.com/dytoandyto)
+[![GitHub Followers](https://img.shields.io/github/followers/dytoandyto?style=for-the-badge&logo=github&color=7C3AED)](https://github.com/dytoandyto)
 [![Profile Views](https://komarev.com/ghpvc/?username=dytoandyto&style=for-the-badge&color=8B5CF6)](https://github.com/dytoandyto)
 
 ### `Building ideas into digital experiences.`
@@ -28,7 +27,11 @@ const andyto = {
     "Creative Coding",
     "Software Engineering"
   ],
-  currentlyLearning: ["React", "Laravel", "System Design"],
+  currentlyLearning: [
+    "React",
+    "Laravel",
+    "System Design"
+  ],
   motto: "Think. Build. Iterate. Repeat."
 };
 ```
@@ -46,19 +49,19 @@ const andyto = {
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend technologies" />
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,postgres,mysql,sqlite,firebase" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,postgres,mysql,sqlite,firebase" alt="Backend and database technologies" />
 
 ### Mobile Development
 
-<img src="https://skillicons.dev/icons?i=dart,flutter" />
+<img src="https://skillicons.dev/icons?i=dart,flutter" alt="Mobile development technologies" />
 
 ### Tools & Design
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,linux,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,linux,vercel" alt="Development tools" />
 
 </div>
 
@@ -67,32 +70,32 @@ const andyto = {
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🎓 ClassHub
 
 A class portal that brings academic schedules, learning materials, student profiles, and class information together.
 
-**Built with:** React · Database · Web Technologies
+**Focus:** Academic Portal · Web Development · UI/UX
 
-[View Project →](https://github.com/dytoandyto/REPO_2)
+[View Project →](https://github.com/dytoandyto)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+    </td>
+    <td width="50%" valign="top">
 
 ### 📦 SISFO SARPRAS
 
-A facility and inventory management system for tracking items, borrowing requests, returns, and approvals.
+A facility and inventory management system for managing inventory, borrowing requests, returns, and approval workflows.
 
-**Built with:** Laravel API · Next.js · Flutter
+**Focus:** REST API · Inventory Management · Cross-Platform Development
 
-[View Project →](https://github.com/dytoandyto/REPO_3)
+[View Project →](https://github.com/dytoandyto)
 
-</td>
-<td width="50%">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
 
 ### 💡 UI/UX Experiments
 
@@ -100,10 +103,10 @@ Exploring interface design, interactive prototypes, and creative approaches to d
 
 **Focus:** Figma · Prototyping · Design Systems
 
-[Explore Repositories →](https://github.com/dytoandyto?tab=repositories)
+[Explore All Repositories →](https://github.com/dytoandyto?tab=repositories)
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -112,13 +115,13 @@ Exploring interface design, interactive prototypes, and creative approaches to d
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dytoandyto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dytoandyto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dytoandyto&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dytoandyto&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=dytoandyto&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=dytoandyto&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
@@ -128,7 +131,7 @@ Exploring interface design, interactive prototypes, and creative approaches to d
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dytoandyto/dytoandyto/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+<img src="https://raw.githubusercontent.com/dytoandyto/dytoandyto/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
 
 </div>
 
@@ -139,15 +142,13 @@ Exploring interface design, interactive prototypes, and creative approaches to d
 <div align="center">
 
 <a href="https://linkedin.com/in/andyto-hudianto-a949022bb">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
 <a href="https://instagram.com/dytoandyto">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-
 <a href="https://github.com/dytoandyto">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
@@ -156,6 +157,6 @@ Exploring interface design, interactive prototypes, and creative approaches to d
 
 *Keep creating. Keep learning. Keep shipping.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:C084FC&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:C084FC&height=120&section=footer" width="100%" alt="Purple gradient footer" />
 
 </div>
