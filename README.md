@@ -79,10 +79,7 @@ A class portal that brings academic schedules, learning materials, student profi
 
 **Focus:** Academic Portal · Web Development · UI/UX
 
-[View Project →](https://github.com/dytoandyto)
-
-    </td>
-    <td width="50%" valign="top">
+[View Project →](https://github.com/dytoandyto/WebKelas-2605)
 
 ### 📦 SISFO SARPRAS
 
@@ -90,12 +87,12 @@ A facility and inventory management system for managing inventory, borrowing req
 
 **Focus:** REST API · Inventory Management · Cross-Platform Development
 
-[View Project →](https://github.com/dytoandyto)
+[View Project →](https://github.com/dytoandyto/SuaraSiswa-AI-Powered-Student-Helpdesk-Aspiration-System)
 
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+
 
 ### 💡 UI/UX Experiments
 
